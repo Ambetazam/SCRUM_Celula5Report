@@ -10,8 +10,9 @@
 
 ## 🌎 Language Quick Links / Atajos de Idioma
 
-			- 🇬🇧 [English Version](#-english-documentation)
-			- 🇪🇸 [Versión en Español](#-documentación-en-español)
+*  🇬🇧 [English Version](#-english-documentation)
+*  🇪🇸 [Versión en Español](#-documentación-en-español)
+
 ---
 
 # 🇬🇧 English Documentation
