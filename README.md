@@ -1,18 +1,17 @@
 # 🍳 Sazón — Digital Recipe & Weekly Meal Planner
 
-	> **Academic Project Disclaimer / Descargo de Responsabilidad Académico**
-	>
-	> **English:** This is a strictly non-commercial, educational project. All brand names, palettes, and product references are used for academic and simulation purposes only. The project maintains absolute legal and structural neutrality.
-	>
-	> **Español:** Este es un proyecto estrictamente académico y no comercial. El uso de marcas, paletas y referencias es puramente con fines educativos y de simulación. El proyecto mantiene una neutralidad legal y estructural absoluta.
+> **Academic Project Disclaimer / Descargo de Responsabilidad Académico**
+>
+> **English:** This is a strictly non-commercial, educational project. All brand names, palettes, and product references are used for academic and simulation purposes only. The project maintains absolute legal and structural neutrality.
+>
+> **Español:** Este es un proyecto estrictamente académico y no comercial. El uso de marcas, paletas y referencias es puramente con fines educativos y de simulación. El proyecto mantiene una neutralidad legal y estructural absoluta.
 
 ---
 
 ## 🌎 Language Quick Links / Atajos de Idioma
 
-	- 🇬🇧 [English Version](#-english-documentation)
-	- 🇪🇸 [Versión en Español](#-documentación-en-español)
-
+			- 🇬🇧 [English Version](#-english-documentation)
+			- 🇪🇸 [Versión en Español](#-documentación-en-español)
 ---
 
 # 🇬🇧 English Documentation
