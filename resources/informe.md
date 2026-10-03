@@ -1,4 +1,4 @@
-# INFORME DE REQUISITOS: PLANIFICADOR DE MENÚS Y LISTA DE MERCADO
+F# INFORME DE REQUISITOS: PLANIFICADOR DE MENÚS Y LISTA DE MERCADO
 
 ## CÉLULA 5 - PROYECTO SAZÓN
 
@@ -10,16 +10,16 @@
 **MÓDULO: PLANIFICADOR DE MENÚS Y LISTA DE MERCADO (CÉLULA 5)**  
 
 **Autor:**  
-[Tu Nombre / Scrum Master & Lead Developer]  
+Jean Steven / Scrum Master & Lead Developer
 
 **Institución Educativa:**  
-[Nombre de la Institución]  
+CESDE  
 
 **Programa:**  
 Análisis y Desarrollo de Software / Ingeniería de Software  
 
 **Fecha:**  
-Octubre de 2026  
+Octubre 06 de 2026  
 
 ---
 
