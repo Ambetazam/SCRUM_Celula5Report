@@ -5,17 +5,46 @@
 **Fecha de elaboración:** 4 de octubre de 2026
 **Propósito:** Documentar la participación observable de los integrantes del equipo durante el desarrollo del proyecto.
 
-## Grupo 5 Planificador de Menús y Lista de Mercado:
+## Grupo 5 — Planificador de Menús y Lista de Mercado
 
-Actual Team:
+### Integrantes y roles asignados
 
-The document was not reviewed, responses were generic, responsibilities were not clearly assigned, and I therefore took initiative to avoid leaving an undocumented contribution.
+El proyecto corresponde al Grupo 5 — Planificador de Menús y Lista de Mercado. Las responsabilidades se organizan de acuerdo con los roles establecidos en la metodología Scrum y con la estructura definida en los materiales académicos utilizados como referencia.
 
-	**Andrés Vélez Hurtado**
-	**Yeferson Estiven Castañeda**
-	**Miguel Samudio**
-	**Jean Steven Castañeda Sánchez**
-	**Luis Loaiza García**
+Durante el desarrollo se identificaron situaciones en las que algunas responsabilidades no quedaron claramente asignadas o comunicadas. Asimismo, se registraron solicitudes de revisión y seguimiento cuya respuesta no siempre permitió determinar una tarea concreta, responsable, criterio de aceptación o fecha de cumplimiento.
+
+Por esta razón, el presente cuadro tiene como finalidad establecer una referencia documental de los integrantes y sus roles, facilitando posteriormente la trazabilidad de las contribuciones mediante evidencias como commits, documentos, mensajes del grupo, revisiones y entregables.
+
+Nota: La asignación de roles y responsabilidades debe contrastarse con el documento académico o material de referencia utilizado por el curso. Las actividades específicas de cada integrante deben determinarse mediante evidencia verificable del trabajo realizado y no únicamente mediante la denominación del rol.
+
+
+
+| Integrante                        | Rol asignado         | Responsabilidad general                                                                                                                              |
+| --------------------------------- | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Andrés Vélez Hurtado**          | Equipo de Desarrollo | 
+| **Yeferson Estiven Castañeda**    | Equipo de Desarrollo | 
+| **Miguel Samudio**                | Equipo de Desarrollo | 
+| **Jean Steven Castañeda Sánchez** | Equipo de Desarrollo | 
+| **Luis Loaiza García**            | **Scrum Master**     | 
+
+### Referencia metodológica
+
+Las definiciones de los roles utilizados en esta tabla deben citarse de acuerdo con el material bibliográfico, guía académica o documento proporcionado por el docente que establezca la estructura de roles Scrum utilizada por el curso.
+
+
+### Contexto de participación
+
+El proyecto corresponde al **Grupo 5 — Planificador de Menús y Lista de Mercado**. Las responsabilidades se organizan de acuerdo con los roles establecidos en la metodología Scrum y con la estructura definida en los materiales académicos utilizados como referencia.
+
+Durante el desarrollo se identificaron situaciones en las que algunas responsabilidades no quedaron claramente asignadas o comunicadas. Asimismo, se registraron solicitudes de revisión y seguimiento cuya respuesta no siempre permitió determinar una tarea concreta, responsable, criterio de aceptación o fecha de cumplimiento.
+
+Por esta razón, el presente cuadro tiene como finalidad establecer una referencia documental de los integrantes y sus roles, facilitando posteriormente la trazabilidad de las contribuciones mediante evidencias como commits, documentos, mensajes del grupo, revisiones y entregables.
+
+> **Nota:** La asignación de roles y responsabilidades debe contrastarse con el documento académico o material de referencia utilizado por el curso. Las actividades específicas de cada integrante deben determinarse mediante evidencia verificable del trabajo realizado y no únicamente mediante la denominación del rol.
+
+### Referencia metodológica
+
+Las definiciones de los roles utilizados en esta tabla deben citarse de acuerdo con el material bibliográfico, guía académica o documento proporcionado por el docente que establezca la estructura de roles Scrum utilizada por el curso.
 
 ---
 
