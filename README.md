@@ -261,3 +261,8 @@
 This project is developed exclusively for educational, academic, and simulation purposes.
 
 Este proyecto ha sido desarrollado exclusivamente con fines educativos, académicos y de simulación.
+
+## Contributors:
+
+https://github.com/Ambetazam/
+https://github.com/andresvel-dot/
