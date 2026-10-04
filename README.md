@@ -98,11 +98,11 @@
 
 	| Layer | Technology |
 	|---|---|
-	| **Frontend** | React (SPA Architecture), JavaScript (ES6+), Bootstrap 5.3.3 |
-	| **Backend** | Java, Spring Boot 3.x, Spring Security, JPA/Hibernate |
-	| **Security** | Stateless Session via JWT (JSON Web Tokens) |
-	| **Database** | Relational Schema (SQL) |
-	| **Agile Management** | Scrum Framework (Unipersonal Resilient Delivery) |
+	| Frontend | React (SPA Architecture), JavaScript (ES6+), Bootstrap 5.3.3 |
+	| Backend | Java, Spring Boot 3.x, Spring Security, JPA/Hibernate |
+	| Security | Stateless Session via JWT (JSON Web Tokens) |
+	| Database | Relational Schema (SQL) |
+	| Agile Management | Scrum Framework (Unipersonal Resilient Delivery) |
 
 ---
 
