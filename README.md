@@ -15,6 +15,29 @@
 
 ---
 
+## 📄 Project Documentation
+
+The complete requirements documentation for **Sazón — Célula 5: Planificador de Menús y Lista de Mercado** is available in PDF format.
+
+### 🌐 Online Presentation
+
+The project documentation can be presented through the static site:
+
+👉 **[Open the Project Presentation](./index.html)**
+
+### 📑 Requirements Report
+
+The complete academic report is available here:
+
+👉 **[Download / Open the Requirements Report](./INFORME_REQUISITOS_CELUlA_5.pdf)**
+
+The static presentation uses the official PDF document contained in this repository as its primary source.
+
+
+
+
+
+
 # 🇬🇧 English Documentation
 
 ## 📝 Project Overview
