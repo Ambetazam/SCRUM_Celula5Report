@@ -5,6 +5,18 @@
 **Fecha de elaboración:** 4 de octubre de 2026
 **Propósito:** Documentar la participación observable de los integrantes del equipo durante el desarrollo del proyecto.
 
+## Grupo 5 Planificador de Menús y Lista de Mercado:
+
+Actual Team:
+
+The document was not reviewed, responses were generic, responsibilities were not clearly assigned, and I therefore took initiative to avoid leaving an undocumented contribution.
+
+	**Andrés Vélez Hurtado**
+	**Yeferson Estiven Castañeda**
+	**Miguel Samudio**
+	**Jean Steven Castañeda Sánchez**
+	**Luis Loaiza García**
+
 ---
 
 ## 1. Objetivo
