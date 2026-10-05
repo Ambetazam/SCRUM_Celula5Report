@@ -287,3 +287,10 @@ Este proyecto ha sido desarrollado exclusivamente con fines educativos, académi
 
 
 
+## Contributors:
+
+Jean Steven:
+https://github.com/Ambetazam/
+
+Andres Velez
+https://github.com/andresvel-dot/
