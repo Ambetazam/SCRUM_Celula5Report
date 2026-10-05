@@ -1,91 +1,73 @@
-# REGISTRO GLOBAL DE LA COMUNICACIÓN DEL GRUPO Y TRAZABILIDAD DE LA ACTIVIDAD
+# REGISTRO GLOBAL DE COMUNICACIÓN, COORDINACIÓN, DISCORDANCIAS Y SEGUIMIENTO
 
 ## Planificador de Menús y Lista de Mercado
 
 **Período documentado:** 29 de septiembre al 4 de octubre de 2026
-**Fecha de exportación de WhatsApp:** 4 de octubre de 2026, 9:12 p. m.
+**Fecha de exportación del grupo:** 4 de octubre de 2026, 9:12 p. m.
+**Fecha de exportación de la conversación individual con Andrés:** 4 de octubre de 2026, 10:56 p. m.
 **Sesión académica relevante:** Sesión 05 — 1 de octubre de 2026
 
 ---
 
-# 1. Objeto del registro
+# 1. Objeto del informe
 
-El presente documento organiza cronológicamente las comunicaciones realizadas en el grupo de WhatsApp relacionado con el proyecto académico **“Planificador de Menús y Lista de Mercado”**, integrando tanto las conversaciones del grupo como la referencia documental correspondiente a la **Sesión 05 del 1 de octubre de 2026**.
+El presente documento consolida y organiza cronológicamente la evidencia de comunicación, coordinación, distribución de responsabilidades, dificultades técnicas y discordancias surgidas durante el desarrollo de la actividad académica **“Planificador de Menús y Lista de Mercado”**.
 
-El propósito es establecer una trazabilidad temporal de:
+Para establecer una trazabilidad completa, se integran tres fuentes principales:
 
-* las comunicaciones preliminares;
-* las orientaciones recibidas durante la actividad académica;
-* las modificaciones registradas en el documento de apoyo;
-* la organización y reorganización de los integrantes;
-* la distribución de responsabilidades;
-* la creación y coordinación del repositorio;
-* el trabajo sobre el informe de requisitos;
-* las instrucciones relacionadas con Git y GitHub;
-* las dificultades de comunicación y acceso;
-* las reiteraciones y aclaraciones de instrucciones;
-* las consultas realizadas durante el desarrollo;
-* y las discordancias o dificultades que fueron comunicadas dentro del grupo.
+1. **La conversación global del grupo de WhatsApp**, correspondiente al período comprendido entre el 29 de septiembre y el 4 de octubre de 2026.
+2. **La conversación individual mantenida con Andrés**, exportada el 4 de octubre de 2026 a las 10:56 p. m.
+3. **El documento de apoyo utilizado durante la Sesión 05 del 1 de octubre de 2026**, actualizado durante la actividad académica.
 
-La descripción se fundamenta en la evidencia disponible y procura diferenciar entre **hechos verificables**, **información comunicada por los integrantes** y **referencias a instrucciones del docente**.
+El propósito no es realizar una valoración personal de los integrantes, sino documentar objetivamente:
 
-No se atribuyen intenciones personales ni se realizan afirmaciones sobre la actitud, capacidad o motivación de un integrante cuando estas no pueden demostrarse directamente mediante la evidencia.
+* cómo evolucionó la organización del equipo;
+* qué instrucciones fueron comunicadas;
+* qué modificaciones se realizaron durante el proceso;
+* cómo se distribuyeron las responsabilidades;
+* qué dificultades aparecieron;
+* qué instrucciones debieron ser reiteradas;
+* qué acciones se realizaron para resolverlas;
+* y qué evidencia técnica quedó asociada al trabajo.
 
 ---
 
-# 2. Fuente documental adicional: Sesión 05 — 1 de octubre de 2026
+# 2. Importancia de la Sesión 05 — 1 de octubre de 2026
 
-Además de la exportación de WhatsApp, se identifica como soporte documental un archivo de Google Sheets utilizado durante la actividad académica y actualizado en la **Sesión 05 del 1 de octubre de 2026**.
+La **Sesión 05 del 1 de octubre de 2026** constituye un punto fundamental para interpretar correctamente las conversaciones posteriores.
 
-**Documento de apoyo:**
+Durante esta sesión fue actualizado el documento de apoyo utilizado para la organización del proyecto. Según la información reportada sobre la actividad, el docente indicó al grupo que cada integrante debía **revisar directamente el documento actualizado para identificar por sí mismo los cambios realizados**, dado que la organización de los equipos y la distribución de responsabilidades podían ser modificadas por el docente de acuerdo con las necesidades del proyecto.
+
+Documento de apoyo:
 
 > https://docs.google.com/spreadsheets/d/1I85dGy3mablUgxN85FjZApJDjE7_gN2L/edit
 
-Según la información comunicada respecto de dicha sesión, el docente indicó al grupo que era necesario **revisar directamente el documento actualizado para identificar por sí mismos los cambios realizados**, en lugar de depender exclusivamente de explicaciones transmitidas por otros integrantes.
+También se indicó, según la información proporcionada, que las **discordancias surgidas durante la actividad debían quedar registradas**, incluyendo aquellas evidenciadas por medio de las conversaciones del grupo.
 
-También se indicó, según lo reportado, que el docente mantenía la facultad de **reorganizar los equipos o modificar su estructura de acuerdo con las necesidades de la actividad académica**, al ser responsable de la organización del proyecto.
-
-Esta indicación es especialmente relevante para interpretar las conversaciones posteriores, debido a que durante el período documentado aparecen preguntas y aclaraciones relacionadas con:
-
-* quién pertenecía al equipo;
-* quién ocupaba determinados roles;
-* quién era responsable de determinadas actividades;
-* quién debía crear el repositorio;
-* y quién desempeñaba el papel de Scrum Master.
-
-### 2.1. Obligación de revisar el documento actualizado
-
-La instrucción reportada durante la Sesión 05 puede documentarse formalmente de la siguiente manera:
-
-> **Se indicó a los estudiantes que debían revisar directamente el documento de apoyo actualizado para identificar los cambios realizados y verificar la composición, organización y responsabilidades correspondientes a su equipo.**
-
-Esta precisión es importante porque permite distinguir entre:
-
-1. información contenida en el documento oficial o de apoyo;
-2. información transmitida oralmente por un compañero;
-3. interpretaciones individuales;
-4. y decisiones tomadas posteriormente dentro del grupo.
+Por esta razón, la conversación de WhatsApp debe entenderse como parte del registro de incidencias y no solamente como una conversación informal entre compañeros.
 
 ---
 
-# 3. Registro de discordancias y dificultades
+# 3. Reorganización del equipo y modificación del rol de Scrum Master
 
-De acuerdo con la orientación reportada de la Sesión 05, las discordancias surgidas durante la actividad debían quedar registradas.
+De acuerdo con la información proporcionada sobre la organización del equipo, **Verónica Ciro inicialmente tenía asignado el rol de Scrum Master** cuando el grupo fue constituido.
 
-Estas discordancias pueden incluir, entre otras:
+Durante la Sesión 05 del **1 de octubre de 2026**, Verónica manifestó su descontento con la dinámica de trabajo del equipo y, de acuerdo con la información proporcionada, también existía una situación de presión o estrés relacionada con la actividad que se estaba desarrollando.
 
-* diferencias respecto de la asignación de integrantes;
-* diferencias respecto de los roles;
-* dificultades para interpretar instrucciones;
-* contradicciones entre información transmitida por diferentes integrantes;
-* problemas de comunicación;
-* dificultades de acceso a documentos;
-* problemas técnicos relacionados con Git o GitHub;
-* consultas repetidas;
-* necesidad de volver a explicar procedimientos;
-* y situaciones evidenciadas directamente en las conversaciones del grupo.
+Es importante diferenciar aquí entre:
 
-Por esta razón, la conversación de WhatsApp constituye una fuente relevante de evidencia, ya que permite identificar **cuándo surgió una situación, cómo fue comunicada, qué aclaración se realizó y qué acción posterior se tomó**.
+* **la existencia de la situación y su contexto**, que puede ser respaldada mediante la evidencia de la Sesión 05;
+* y **la razón específica de la salida de Verónica del grupo**, que no aparece explicada directamente en la exportación de WhatsApp proporcionada.
+
+El historial global registra que a la **1:26 p. m. del 1 de octubre**:
+
+> “+57 312 8180166 a retiré Verónica Ciro”
+
+Por ello, la conclusión académicamente adecuada es que **durante la Sesión 05 se produjo una reorganización del equipo y posteriormente Verónica dejó el grupo**, mientras que la causa exacta debe sustentarse con la evidencia de la sesión si se desea documentarla expresamente.
+
+Como consecuencia de la reorganización, el documento de apoyo ubicado en Drive estableció posteriormente a **Luis Loaiza García como Scrum Master**.
+
+Este cambio es particularmente importante porque el **3 de octubre** surgió una discordancia sobre quién ocupaba ese rol, y fue necesario revisar nuevamente la documentación para resolverla.
 
 ---
 
@@ -93,7 +75,7 @@ Por esta razón, la conversación de WhatsApp constituye una fuente relevante de
 
 A las **3:18 p. m.** se registra la creación del grupo.
 
-Posteriormente ingresan integrantes mediante enlace de invitación y comienzan a compartirse informaciones preliminares relacionadas con la actividad.
+Posteriormente comienzan a compartirse informaciones preliminares relacionadas con la actividad.
 
 A las **3:34 p. m.**, Verónica Ciro escribe:
 
@@ -108,13 +90,13 @@ y:
 
 > “letra latto pupings”
 
-## 4.1. Actividades asociadas a Andrés
+## 4.1. Primera referencia explícita a Andrés
 
-A las **4:01 p. m.**, Verónica menciona directamente:
+A las **4:01 p. m.**, Verónica menciona:
 
 > “Andres”
 
-y se registran las siguientes responsabilidades:
+e inmediatamente aparecen las siguientes responsabilidades:
 
 > “Identificar las entidades y atributos necesarios.”
 > “Diseñar las tablas de la base de datos.”
@@ -123,53 +105,47 @@ y se registran las siguientes responsabilidades:
 > “Realizar las modificaciones necesarias según los requerimientos del proyecto.”
 > “Apoyar la integración de la base de datos con la aplicación.”
 
-Esta constituye una de las referencias directas del historial respecto de actividades técnicas asociadas a Andrés.
-
-A las **4:22 p. m.** también se comparte un repositorio de GitHub relacionado con una actividad previa:
-
-> `https://github.com/lileblu/campania_mercadeo_fidelizacion-.git`
+Esta es una de las evidencias más claras de que desde la fase inicial existía una asignación técnica relacionada con Andrés, particularmente en el componente de base de datos.
 
 ---
 
-# 5. 30 de septiembre de 2026
+# 5. 30 de septiembre de 2026 — comunicaciones preliminares
 
-A las **8:15 a. m.**, Verónica inicia nuevamente la comunicación:
+A las **8:15 a. m.**, Verónica escribe:
 
 > “Buen día chicos como están?”
 
-A las **8:17 a. m.** se comparte:
+Posteriormente comparte:
 
 > “mire el tema de sazón que indicó juanjo”
 
-junto con imágenes y mensajes de voz.
+mediante imágenes y mensajes de voz.
 
-Durante el día continúa la comunicación mediante audios e imágenes.
+Durante la jornada se mantiene la comunicación mediante audios e imágenes.
 
 A las **3:33 p. m.** escribo:
 
 > “Muchas gracias, quedamos a la espera”
 
-y a las **4:09 p. m.** se responde:
+y a las **4:09 p. m.** aparece:
 
 > “X2”
 
-El historial de este día demuestra que parte de la información estaba siendo comunicada mediante **audios, imágenes y referencias a instrucciones recibidas previamente**.
+Esta etapa muestra que parte importante de la información todavía se estaba transmitiendo mediante mensajes de voz e imágenes.
 
 ---
 
-# 6. 1 de octubre de 2026 — Sesión 05 y comienzo de la coordinación específica
+# 6. 1 de octubre de 2026 — coordinación y referencia a las instrucciones académicas
 
-A la **1:25 p. m.** el grupo cambia su nombre a:
+A la **1:25 p. m.**, el grupo cambia su nombre a:
 
 > “Planificador de Menús y Lista de Mercado”
 
-A la **1:26 p. m.** se registra la salida de Verónica Ciro.
+A la **1:26 p. m.** se registra la salida de Verónica.
 
-A la **1:37 p. m.** ingresa otro participante mediante enlace de invitación.
+A la **1:37 p. m.** ingresa otro integrante.
 
-## 6.1. Seguimiento del inicio del trabajo
-
-A las **2:12 p. m.** aparece:
+A las **2:12 p. m.**:
 
 > “Grupo”
 > “Como vamos”
@@ -180,589 +156,1003 @@ A las **2:13 p. m.**:
 > “Lo que es para el 6”
 > “Faltan 5 dias”
 
-Estas intervenciones muestran que existía preocupación por el inicio efectivo del trabajo y por los plazos que el grupo estaba manejando.
-
----
-
-# 7. Referencia a la orientación del docente
-
-A las **2:22 p. m.**, un integrante responde mediante mensaje de voz:
+A las **2:22 p. m.**, otro integrante responde mediante mensaje de voz:
 
 > “Oeee!!!! YO TE EXPLIQUE ANTES DE SALIR DE ACA, QUE ESO QUEDO PARA EL 29!!!! Vamos a tener todas las clases con este man de jaime de aqui hasta el 29 para organizar eso”
 
-Este mensaje debe interpretarse conjuntamente con el documento de apoyo de la **Sesión 05**.
+Este mensaje debe considerarse como **la comunicación de un estudiante acerca de lo que entendió o informó respecto de la orientación del docente**, y no como una cita textual del docente.
 
-Para mantener la trazabilidad académica, la formulación recomendada es:
-
-> **Durante la Sesión 05 del 1 de octubre de 2026 se realizaron modificaciones en el documento de apoyo utilizado por el docente. Se indicó a los integrantes que debían revisar directamente el documento para identificar los cambios y verificar la organización del equipo. Dentro de la conversación de WhatsApp, un integrante comunicó adicionalmente una interpretación de las fechas de trabajo asociadas a la orientación del docente.**
-
-No debe presentarse el contenido del mensaje de WhatsApp como una cita directa del docente, ya que el mensaje fue escrito por un estudiante.
-
-Después de esta aclaración se registra:
-
-> “Listo”
-> “Hágale”
+Por esa razón, el documento de apoyo de la Sesión 05 constituye la referencia principal para verificar la organización académica.
 
 ---
 
-# 8. Importancia del documento actualizado frente a las conversaciones del grupo
+# 7. 1 de octubre de 2026 — conversación individual con Andrés
 
-La existencia del documento de apoyo actualizado el **1 de octubre** es relevante porque permite contextualizar varias situaciones posteriores que inicialmente podrían parecer contradicciones entre los integrantes.
+La conversación individual con Andrés permite complementar de manera significativa la evidencia del grupo.
 
-Por ejemplo, durante los días siguientes aparecen distintas referencias sobre:
+A las **4:17 p. m.**, escribo directamente:
 
-* la composición del equipo;
-* el liderazgo;
-* el Scrum Master;
-* quién debía crear el repositorio;
-* las responsabilidades de cada integrante;
-* las actividades de base de datos;
-* y el procedimiento de trabajo.
-
-Por ello, el criterio correcto no es tomar una afirmación aislada de un miembro como fuente definitiva, sino contrastar:
-
-**Documento académico actualizado → conversación del grupo → acción realizada → evidencia técnica resultante.**
-
-Este procedimiento permite establecer de manera objetiva qué información fue conocida por el equipo y en qué momento.
-
----
-
-# 9. 2 de octubre de 2026 — coordinación de la jornada de trabajo
-
-A las **7:48 p. m.** se registra:
-
-> “Grupo que mas”
-> “Ya que estamos completos todos”
-> “Y ya estamos acá”
-> “Ent mañana ah que horas les serviría para trabajar”
-> “Debemos de trabajar todos”
-> “Listo”
-
-Posteriormente:
-
-> “Usted es el líder de este equipo”
+> “Andrés”
 
 y:
 
-> “Ent mañana todos ent a qué horas?”
+> “Buenas tardes, espero se encuentre muy bien el día de hoy 😊”
 
-Esta conversación evidencia que el equipo continuaba estableciendo la forma práctica de iniciar el trabajo conjunto.
+A las **4:18 p. m.**:
 
----
-
-# 10. 3 de octubre de 2026 — ejecución y organización técnica
-
-A las **9:56 a. m.**:
-
-> “Buenos dias”
-> “Compañeros”
-> “Ent a qué horas empezamos?”
-
-A las **2:22 p. m.**:
-
-> “Hay que crear el repositorio y hacer eso”
-
-Posteriormente:
-
-> “Pero lo debe de crear”
-> “@~Samudio”
-
----
-
-# 11. Verificación de roles
-
-A las **3:01 p. m.** se plantea:
-
-> “Si quieren lo empezamos de una vez”
-
-En ese momento aclaro:
-
-> “por favor revisemos en el drive; Samudio no esta de scrum master es Luis”
-
-Se responde:
-
-> “Ahh listo”
+> “Para lo del trabajo para entregar el día 06 de octubre, si quiere lo trabajamos juntos”
 
 y:
 
-> “Ent Luis créelo”
+> “Yo no le voy a ayudar a gestionar nada a Luis,”
 
-Esta situación constituye una **discordancia verificable sobre la asignación del rol**, especialmente importante a la luz de la instrucción de la Sesión 05 de revisar directamente el documento actualizado.
+A continuación:
 
-Por tanto, puede registrarse como:
+> “Pongámonos de acuerdo y nos repartimos el trabajo”
 
-> **Discordancia 01 — Asignación del rol de Scrum Master:** Durante la coordinación del 3 de octubre surgió una identificación incorrecta del integrante que ocupaba el rol de Scrum Master. Se solicitó revisar la documentación disponible y se aclaró que el rol correspondía a Luis Loaiza García.
+Este mensaje demuestra una iniciativa directa para **coordinar el trabajo con Andrés y distribuir responsabilidades**, en lugar de limitar la comunicación al grupo general.
 
----
+A las **4:30 p. m.**, Andrés responde:
 
-# 12. Creación del repositorio
+> “Brother”
+> “Claro que si”
 
-A las **3:03 p. m.** escribo:
+y propone trabajar al día siguiente:
 
-> “Paila; como nadie se manifestaba”
-> “me toco a mi crear el repo”
+> “Ent para mañana ya que usted y yo salimos temprano”
+> “Hacemos esa gestión o que”
+> “Hacemos ese trabajo de una vez”
+> “Mañana más tranquilos”
 
-Posteriormente comparto:
+También informa que ese día tenía un compromiso familiar que limitaba su disponibilidad.
 
-> `https://github.com/Ambetazam/SCRUM_MethodologyReport.git`
+Posteriormente confirmo:
 
-A las **3:05 p. m.** se indica también:
+> “Manana solucionamos”
 
-> “Y hacer el informe de requisitos”
+y Andrés responde:
 
-y:
+> “Listo mi hermano”
+> “Dale que si”
 
-> “Subir el documento de Word”
-
-Posteriormente:
-
-> “ya lo mando”
-
----
-
-# 13. Organización del informe
-
-A las **3:06 p. m.** se propone evitar conflictos de sincronización:
-
-> “Pero sería mejor como que termináramos eso primero”
-> “Y que luego lo subamos”
-> “Para no enredarnos con los pull”
-> “Ya que cada vez que se hace un pusheo hay que actualizar con pull”
-
-A las **3:07 p. m.**:
-
-> “Toca repartirnos las partes del informe de requisitos”
-
-Posteriormente:
-
-> “usted hizo el readme asigando las tareas a cada uni?”
-
-A las **3:09 p. m.** informo:
-
-> “En el informe solamente falta organizar las tablas en el indice de las tables”
-
-A las **3:10 p. m.**:
-
-> “Alguien que agregue los nombres en la portada”
-
-> “otra persona puede organizar las tablas en el indice; solo hay 3 tablas”
-
-y:
-
-> “Y la tabla de ilustraciones, esta una sola”
+Esta evidencia es importante porque demuestra que, al menos en ese momento, existía **disposición explícita para trabajar de manera conjunta**.
 
 ---
 
-# 14. Repetición de consultas sobre el documento
+# 8. 3 de octubre de 2026 — coordinación previa con Andrés
 
-Durante la misma sesión se registra:
+A las **7:41 a. m.**, Andrés escribe directamente:
 
-> “Ent e que Word trabajamos”
+> “Brother que más”
+> “Cómo vas”
+> “Brother”
+> “Hoy a qué horas podes para trabajar eso mano”
+
+A las **11:34 a. m.**, respondo:
+
+> “Yo estoy organizando las notas de la clase para armar la estructura del trabajo para las 4 estoy terminando”
+
+Andrés responde:
+
+> “Dale que sí”
 
 y posteriormente:
 
-> “En qué Word trabajamos”
+> “Yo estoy descansando”
 
-A las **3:12 p. m.** aclaro:
+> “Y ya ahorita retomo estudio para que a las 4 le demos a eso bien melo”
 
-> “Ya el informe esta en la raiz del repositorio se llama informe.docx”
+La conversación continúa:
 
-Este intercambio es relevante para la instrucción recibida en la Sesión 05 sobre documentar las discordancias y dificultades, ya que muestra una **reiteración de una consulta operativa durante la misma jornada de trabajo**.
+> “Listo; de una”
 
----
-
-# 15. Plazo interno del repositorio
-
-A las **3:13 p. m.** se registra:
-
-> “tenemos hasta el 5 de octubre para seguir mandando commits; para el 06 ya todo debe estar gestionado”
-
-Posteriormente aparecen los nombres de los integrantes:
-
-> Andrés Vélez Hurtado
-> Yeferson Estiven Castañeda
-> Miguel Samudio
-> Jean Steven Castañeda Sánchez
-> Luis Loaiza García
-
-### Aclaración sobre las fechas
-
-Debe distinguirse cuidadosamente entre las referencias temporales:
-
-* La conversación del **1 de octubre** contiene la información de un integrante que atribuye al docente una planificación hasta el **29**.
-* La conversación del **3 de octubre** establece un **cronograma interno del repositorio**, indicando commits hasta el **5 de octubre** y gestión del trabajo para el **6 de octubre**.
-
-Por tanto, no deben fusionarse ambas fechas como si necesariamente representaran el mismo tipo de plazo.
+Este intercambio muestra que existió una **planeación bilateral de la jornada**, con definición de una hora aproximada para retomar la actividad.
 
 ---
 
-# 16. Instrucciones sobre Git, ramas y commits
+# 9. 3 de octubre de 2026 — interrupción y reanudación del trabajo
 
-A las **3:17 p. m.**:
+A las **9:32 p. m.** se registra una llamada.
 
-> “Melo forkea el repo; luego lo clonas del tuyo; te pasas a la rama develop y luego creas tu branch”
+A las **9:33 p. m.**, Andrés escribe:
 
-Posteriormente:
+> “estiven hola como vas”
 
-> “luego puedes editar el documento; cuando tenga el pull request”
+> “retomemos el trabajp”
 
-A las **3:26 p. m.**:
+A las **9:54 p. m.**:
 
-> “es mejor editar el documento en el local ya que necesitamos tener los commits desde dias antes de la entrega”
+> “estiven”
 
-Y a las **3:27 p. m.**:
+seguido de otra llamada.
 
-> “despues de clonado abre el documento y le pone un nombre; commit; luego agrega otro nombre y commit; etc;
-> Eso mismo para las tablas”
-
-Estas intervenciones constituyen evidencia concreta de instrucciones técnicas que fueron comunicadas al grupo para permitir la participación mediante Git.
+Esto evidencia que el contacto directo continuó durante la noche y que existió un intento de retomar la actividad.
 
 ---
 
-# 17. Otra reiteración sobre el formato del documento
+# 10. 4 de octubre de 2026 — dificultad de acceso al documento
 
-A las **3:24 p. m.** se indica:
+A las **12:37 p. m.** se registra una llamada.
 
-> “Lo que se debe de hacer es editar la portada con los nombres; y enlazar las tablas a la tabla de contenido”
+A las **12:38 p. m.**, Andrés informa:
 
-Posteriormente vuelve a aparecer:
+> “estiven que mas”
 
-> “pero ent en que formato de word trabajmos”
+> “ya adelante un poco mi trabajo”
 
-Se responde:
+pero también:
 
-> “ya el formato esta en .docx”
+> “pero tengo dificultad para acceder al word”
+
+> “que montastes a github”
+
+y explica:
+
+> “ya que se me daño el celular mano”
+
+A las **12:53 p. m.**, respondo:
+
+> “Hola Andres; buenos dias”
 
 y:
 
-> “para que lo podamos trabajar en office 365”
+> “Ya vi lmos mensajes del grupo y vamos bien”
 
-Esta secuencia constituye otra evidencia de **reiteración de una instrucción previamente explicada**.
+Andrés pregunta:
+
+> “lo puedo llamar?”
+
+y explica nuevamente que está trabajando desde un computador debido al daño del teléfono.
 
 ---
 
-# 18. Distribución técnica y necesidad de material previo
+# 11. Prioridad de las reglas académicas y necesidad de evidencia formal
 
-A las **3:28 p. m.** se registra:
+A las **12:54 p. m.**, indico:
 
-> “Ent yo hago lo de la bases de datos”
+> “Por ahora que podemos hacer es seguir las reglas que nos dio Jaime”
+
+Esta afirmación es importante porque demuestra que la coordinación no se estaba realizando exclusivamente con base en preferencias personales, sino intentando mantenerla conforme a las instrucciones académicas.
+
+Posteriormente, cuando Andrés plantea la posibilidad de realizar actividades por WhatsApp, aclaro:
+
+> “lo que pasa es que si lo haces por whatsapp no se puede tomar como evidencia”
+
+Andrés responde:
+
+> “exacto”
+
+Esta interacción es particularmente relevante para el presente informe porque demuestra que **ambos integrantes reconocían la necesidad de realizar el trabajo dentro de un medio que dejara evidencia verificable**.
+
+---
+
+# 12. Instrucciones técnicas específicas proporcionadas a Andrés
+
+A las **1:00 p. m.** se proporciona a Andrés una secuencia concreta de trabajo:
+
+> “Vea entonces no se mortique; forkee el repo; clonelo en su equipo; cree su rama asi: feature/backendAndresVelez y sube otra copia de ese mismo word; pero haga por favor 7 commits; uno por pagina”
+
+También:
+
+> “con ese documento; yo voy a estar pendiente; suba el archivo en la carpeta que se llama assets”
+
+Posteriormente se aclara:
+
+> “Porque la persona que tenia que hacer toda esa cuestion es Luis”
+
+Andrés responde:
+
+> “listo mi brother”
+
+y:
+
+> “ent lo subo con el word digital”
+
+Después pregunta:
+
+> “pues le pusheo el word digital”
+
+y:
+
+> “con ese trabajo de bases de datos”
+
+A lo cual respondo:
+
+> “Si conserve todo; lo que usted hizo”
+
+Andrés vuelve a preguntar:
+
+> “listo ent lo subo tal cual coomo esta o que”
+
+Este intercambio constituye una evidencia particularmente clara de que **las instrucciones fueron proporcionadas paso a paso y que posteriormente aparecieron nuevas preguntas de implementación**, que fueron respondidas durante la misma sesión.
+
+---
+
+# 13. Reiteración de las instrucciones Git
+
+A las **1:10 p. m.**, proporciono nuevamente comandos concretos:
+
+> `git pull origin main`
+
+> `git pull origin develop`
+
+y:
+
+> “Y luego ya empiezas a trabar desde tu rsma”
+
+Además:
+
+> “Crea por favor un archivo y lo pusheas Pra saber si si está funcionando”
+
+Andrés responde:
+
+> “listo ya ter muestro para que veas ent como lo deje”
+
+y comparte una imagen.
+
+Posteriormente pregunta sobre la carpeta que había creado.
+
+Esta secuencia evidencia una **reiteración práctica del procedimiento Git**, seguida de una comprobación sobre la estructura local del repositorio.
+
+---
+
+# 14. Estructura exacta de carpetas
+
+A las **1:13 p. m.** indico:
+
+> “entra a la carpeta SCRUM”
+
+y:
+
+> “y de ahi dentro trabajas”
+
+Andrés responde:
+
+> “ent meto esa carpeta ahi”
+
+y:
+
+> “con el documento de word”
+
+A las **1:16 p. m.** se proporciona una estructura concreta:
+
+> `SCRUMMethodolyReport/assets/AndrezVelez/documentodeword.docx`
+
+Posteriormente explico:
+
+> “Ya cuando tengas toda la parte tuya completada con los commits y los push, yo ya luego lo mergeo con el documuneto que esta ahi y que se llama informe”
+
+Andrés vuelve a preguntar:
+
+> “Pero esto lo hago”
+
+> “dentro de SCRUM”
+
+> “si o que”
+
+> “Y ya dentro meto esa carpeta que cree”
+
+Estas preguntas muestran nuevamente que la ejecución práctica requirió aclaraciones adicionales sobre la estructura del repositorio.
+
+---
+
+# 15. Reiteración de la configuración del documento
+
+A las **1:30 p. m.**, Andrés pregunta:
+
+> “brother el tipo de la letra con el que vamos a trabajar es con cual”
+
+A las **1:42 p. m.**, respondo:
+
+> “Times 12 interlineado doble”
+
+Posteriormente continúo con instrucciones Git:
+
+> “ingresa estos comandos por favor en la bash shell dentro de la carpeta raiz del projecto.”
+
+> `git pull origin main`
+> `git pull origin develop`
+> `git pull`
+
+y:
+
+> “en ese orden y ya te debe de aparecer la carpeta”
+
+Finalmente se señala:
+
+> “Pero lo que estoy viendo esque todavia te falta hacer el fork del repositorio”
+
+Esta secuencia muestra que las aclaraciones no se limitaron a una sola cuestión. Se trataron sucesivamente:
+
+* formato del documento;
+* tipografía;
+* interlineado;
+* ubicación de la carpeta;
+* sincronización del repositorio;
+* fork;
+* clonación;
+* y trabajo sobre la rama.
+
+---
+
+# 16. Problema con el fork y la localización del repositorio
+
+A las **1:55 p. m.** se comparte el repositorio:
+
+> `https://github.com/Ambetazam/SCRUM_Celula5Report`
+
+Se indica:
+
+> “si quieres borras esa carpeta y trabaja con el fork y luego clonas para que le salga todo”
+
+Andrés responde:
+
+> “esta bien dale”
+
+Posteriormente informa:
+
+> “No me aparece brother”
+
+Poco después:
+
+> “ya vi el repo”
+
+A las **2:02 p. m.** respondo:
+
+> “Tu tranqui, déjalo entonces si quieres dentro de BACKLOG o también la puedes dejar dentro de la raíz, junto con el index.html”
+
+Andrés responde:
+
+> “ok”
+> “esta bien”
+
+Esta parte demuestra que el problema se intentó resolver mediante alternativas de ubicación sin detener el avance.
+
+---
+
+# 17. Revisión del documento de Andrés
+
+A las **4:36 p. m.**, Andrés comparte:
+
+> `[Document] Modelo_Relacional_Google_Docs (2).docx`
+
+y escribe:
+
+> “miralo como me quedo”
+
+Posteriormente realizo una revisión y explico:
+
+> “El no se puede convertir porque es el mismo formato”
+
+A las **4:54 p. m.**:
+
+> “Haga el push que ya todo el informe que se hace aparte ya esta completado”
+
+Andrés pregunta:
+
+> “ent que hacemos ahi”
+
+Se realiza además una consulta sobre el avance de otros integrantes.
+
+Finalmente indico:
+
+> “Solo pushee el documento que yo le hago el merge”
+
+Andrés responde:
+
+> “listo”
+
+y:
+
+> “hay algo mas en lo que le puede ayudar?”
+
+Esta parte es importante porque demuestra que Andrés **sí entregó un archivo de trabajo y solicitó instrucciones adicionales para continuar**.
+
+---
+
+# 18. Problemas de sincronización y push
+
+A las **4:55 p. m.**, Andrés pregunta:
+
+> “en que carpeta”
+
+Se indica:
+
+> “Pongalo en la carpeta ‘resources’”
+
+Posteriormente Andrés explica:
+
+> “pero acuerdece que yo arrastre los cambios y no me aparecio nada”
+
+y:
+
+> “ent que hacemos”
+
+También manifiesta:
+
+> “espere vuelvo a arrastrar aver”
+
+> “o espereme yo borro”
+
+> “y luego ingreso a su repositorio”
+
+A continuación se proporciona nuevamente:
+
+> `git pull origin main`
+> `git pull origin develop`
+> `git pull`
+
+Andrés vuelve a compartir el enlace del repositorio.
+
+Esta secuencia evidencia una dificultad técnica concreta relacionada con la **sincronización del repositorio y la visualización de los cambios**.
+
+---
+
+# 19. Reinicio del fork
+
+A las **5:04 p. m.**, Andrés informa:
+
+> “estiven borre el repositorio forkiado”
+
+> “volvie a forkiar”
+
+> “como para empezar desde cero”
+
+y:
+
+> “lo clone y mira”
+
+> “no me aparece dizque nada ome”
+
+A las **5:06 p. m.**:
+
+> “ent que pasa ahi brother?”
+
+Ante la situación, respondo:
+
+> “Dejala asi yo estoy haciendo el informe de que tuviste problemas con el push”
+
+Esta respuesta demuestra que la dificultad no fue ignorada: se tomó la decisión de **documentarla explícitamente como una incidencia del proceso técnico**, coherente con la necesidad de registrar discordancias e inconvenientes surgidos durante la actividad.
+
+---
+
+# 20. Identificación de la cuenta de GitHub y nueva verificación
+
+Posteriormente solicito:
+
+> “cual es tu github”
+
+Andrés responde:
+
+> “andresvel-dot”
 
 Más tarde:
 
-> “Estiven pero toca decirle al líder esa celula que fue el que expuso ese día allá en bases de datos”
+> “ent que hago ahi compañero?”
 
-> “Que nos mande las diapositivas para guiarnos de ahi”
+A las **5:20 p. m.** informo:
 
-> “Porque como vamos a inventar sabiendo que ellos ya tenían algo estipulado”
+> “Listo ya tengo todo actualizado”
 
-Finalmente:
+A las **5:21 p. m.**, Andrés pregunta:
 
-> “Ent estoy averiguando para que me manden las diapositivas”
+> “ya lo subistes?”
 
-A las **3:43 p. m.** respondo:
+y responde:
 
-> “Si es verdad, las tablas tienen que estar conectadas con todas las celulas”
+> “ahh que bacano brother”
 
----
+Posteriormente se le indica utilizar Bash o Git Bash.
 
-# 19. Estado del documento y elementos pendientes
+A las **5:22 p. m.** solicita nuevamente:
 
-A las **7:03 p. m.** se pregunta:
-
-> “Hey entonces con que les puedo ir ayudando o que”
-
-A las **8:27 p. m.** informo:
-
-> “Quemas, el archivo falta enlazarse las tablas y las dos ilustraciones”
-
-Esto identifica objetivamente dos componentes pendientes del documento.
-
----
-
-# 20. Dificultades técnicas de comunicación y acceso
-
-A las **9:23 p. m.** se informa:
-
-> “se me daño el celular”
-
-> “y gracias a dios tengo whatsap web”
-
-Posteriormente:
-
-> “no me han respondido en el grupo quien fue el principal lider de esta celula”
-
-y:
-
-> “para nosotros saber de que hablar”
-
-También:
-
-> “porque si hablamos de otra cosa”
-
-> “y ya te tomo apunte sobre lo que hablaron ellos seria doble trabajo volver a empezar de nuevo no?”
-
-Esta parte de la conversación constituye una evidencia directa de **dificultades técnicas y de coordinación**.
-
----
-
-# 21. Nueva distribución de responsabilidades
-
-A las **9:29 p. m.**:
-
-> “yo hago lo de bases de datos”
-
-y:
-
-> “quien se encarga de backendo y frontend”
-
-Esto muestra que todavía se estaban concretando determinadas responsabilidades técnicas.
-
-Posteriormente se retoma la tarea pendiente del documento:
-
-> “Esto hay que hacerlo entonces”
-
-y:
-
-> “Mientras tanto”
-
----
-
-# 22. Reiteración de consultas y necesidad de coordinación
-
-A las **9:37 p. m.**:
-
-> “hagale brother”
-
-y:
-
-> “ent por donde vas a iniciar o que”
-
-A las **10:09 p. m.**:
-
-> “con esto hacemos ese trabajo”
-
-y:
-
-> “pero necesito a estiven ome”
-
-A las **10:13 p. m.** se comparte:
-
-> `Modelo_Relacional_Celula_5_Espanol_Saltos_Pagina_APA7.docx`
-
-y:
-
-> “miren lo mio”
-
-También:
-
-> “ya que en ese word no me deja trabajar”
-
-y:
-
-> “no puedo ingresar a ese word desde aca”
-
-Finalmente:
-
-> “ent mañana proseguimos mejor o que?”
-
-y:
-
-> “como esta lo mio o que”
-
----
-
-# 23. 4 de octubre de 2026 — seguimiento del avance
-
-A las **12:37 p. m.**:
-
-> “buenos dias a todos”
-> “ent como vamos”
-> “como estan”
-
-A las **12:52 p. m.**:
-
-> “muchachos”
-> “ent no vamos a entregar nada??”
-
-A las **2:20 p. m.**:
-
-> “Sí claro eso hay que hacerlo”
-
-y:
-
-> “Yo no he estado en la casa pero llego ahora y me pongo a hacer eso”
-
-El historial demuestra que al **4 de octubre** todavía se estaba realizando seguimiento sobre las actividades pendientes.
-
----
-
-# 24. Matriz de discordancias y aclaraciones observables
-
-| Fecha  | Situación                               | Evidencia observable                                           | Acción / aclaración                                                                                                  |
-| ------ | --------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 1 oct. | Interpretación diferente del calendario | Un integrante menciona una planificación hasta el día 29       | Se registra como información comunicada por un integrante y debe contrastarse con el documento de apoyo de Sesión 05 |
-| 3 oct. | Rol de Scrum Master                     | Se identifica inicialmente a Samudio como líder                | Se solicita revisar el documento y se aclara que el Scrum Master es Luis                                             |
-| 3 oct. | Creación del repositorio                | Se esperaba que otro integrante lo creara                      | Ante la falta de acción, se crea y comparte el repositorio                                                           |
-| 3 oct. | Documento de trabajo                    | Se pregunta reiteradamente qué Word utilizar                   | Se aclara que el archivo es `.docx` y que se encuentra en el repositorio                                             |
-| 3 oct. | Flujo Git                               | Se realizan consultas sobre cómo comenzar                      | Se explican fork, clone, `develop`, branch, commit y pull request                                                    |
-| 3 oct. | Contenido pendiente                     | Se identifica que faltan tablas e ilustraciones                | Se comunican expresamente como tareas pendientes                                                                     |
-| 3 oct. | Acceso al documento                     | Se reporta daño del celular y dificultad para ingresar al Word | Se continúa la coordinación mediante WhatsApp Web y se plantea continuar posteriormente                              |
-| 4 oct. | Seguimiento de entrega                  | Se pregunta por el estado de la actividad                      | Otro integrante confirma que debe continuar trabajando                                                               |
-
----
-
-# 25. Reiteración de instrucciones: formulación académica recomendada
-
-La evidencia disponible permite afirmar que durante el período documentado existieron **reiteraciones y reformulaciones de instrucciones y consultas**.
-
-Entre los temas que reaparecen se encuentran:
-
-* formato del documento;
-* ubicación del archivo;
-* procedimiento de trabajo en GitHub;
-* ramas;
-* commits;
-* pull requests;
-* distribución de responsabilidades;
-* rol de Scrum Master;
-* tareas pendientes;
-* forma de comenzar el trabajo.
-
-Por ejemplo, el 3 de octubre aparecen sucesivamente consultas relacionadas con:
-
-> “Ent e que Word trabajamos”
-
-> “En qué Word trabajamos”
+> “mandame porfa otravez el link”
 
 y posteriormente:
 
+> “mandame porfa tu link”
+
+explicando:
+
+> “porque con los cambios depronto eso cambia”
+
+Esta es otra evidencia de la necesidad de **repetir enlaces e información operativa durante la coordinación técnica**.
+
+---
+
+# 21. El problema continúa después de volver a clonar
+
+A las **5:37 p. m.**, Andrés informa:
+
+> “acabo de clonarlo y sigue igual brother”
+
+> “no me traje nada del repositorio”
+
+y:
+
+> “ent que hago bro”
+
+A las **6:09 p. m.**, respondo:
+
+> “Ya está todo bien, si no te no te preocupes.”
+
+y:
+
+> “Trata de repasar las notas que tienes para ver qué te está faltando hacer”
+
+Esta parte evidencia nuevamente que, incluso después de los pasos anteriores, continuaba existiendo un problema de sincronización para Andrés.
+
+---
+
+# 22. Solicitud final de ayuda para modificar y subir el archivo
+
+A las **7:00 p. m.**, Andrés indica:
+
+> “listo eso es todo brother”
+
+> “hagale”
+
+> “en caso de que haya que seguirle le seguimos y listo”
+
+Posteriormente comunica directamente:
+
+> “no meda para pushear”
+
+y:
+
+> “ent aca te voy a compartir el formato de nuevo”
+
+> “para que porfavor si tenes la forma”
+
+> “lo modifiques”
+
+> “solo el nombre”
+
+> “y lo subas”
+
+Luego explica:
+
+> “parce porque de verdad no me da”
+
+y:
+
+> “y cualquier cosa que haya que hacer me decis”
+
+> “y trabajamos”
+
+> “lo que necesite parcero”
+
+También comparte nuevamente:
+
+> `[Document] Modelo_Relacional_Google_Docs (2).docx`
+
+Finalmente:
+
+> “estare pendiente ent a cualquier sugerencia tuyabrother”
+
+Esta parte constituye una evidencia particularmente importante porque muestra una **solicitud explícita de asistencia técnica después de intentar realizar el procedimiento por cuenta propia**.
+
+---
+
+# 23. Cierre de la coordinación con Andrés
+
+A las **7:05 p. m.**, indico:
+
+> “Esta bien; si quieres revisas como quedo el documento final en pdf”
+
+A las **7:06 p. m.**:
+
+> “ya por hoy ya termine de laborar”
+
+y:
+
+> “Bien trabajado; gracias por el apoyo”
+
+Andrés responde:
+
+> “uy parce muchas gracias a vos por entender, liderar y ayudar”
+
+y:
+
+> “igualmente mi hermano”
+
+> “dios te bendiga”
+
+Este cierre resulta relevante porque muestra que, a pesar de las dificultades técnicas y de las reiteraciones necesarias durante la sesión, existió un reconocimiento explícito del apoyo y la coordinación realizada.
+
+---
+
+# 24. Análisis de la comunicación con Andrés
+
+La conversación individual proporciona evidencia mucho más precisa que la conversación grupal para analizar la situación específica con Andrés.
+
+La secuencia observada puede resumirse así:
+
+### Primera etapa — propuesta de colaboración
+
+El **1 de octubre**, se propone trabajar conjuntamente y repartir el trabajo.
+
+Andrés acepta.
+
+### Segunda etapa — planificación
+
+El **3 de octubre**, Andrés pregunta a qué hora trabajar y se acuerda retomar la actividad aproximadamente a las 4:00 p. m.
+
+### Tercera etapa — ejecución
+
+El **4 de octubre**, Andrés informa que ha adelantado parte de su trabajo pero tiene problemas para acceder al documento.
+
+### Cuarta etapa — instrucciones técnicas
+
+Se proporcionan instrucciones concretas sobre:
+
+* fork;
+* clone;
+* branch;
+* nombre de la rama;
+* 7 commits;
+* un commit por página;
+* ubicación del documento;
+* carpeta `assets`;
+* comandos `git pull`;
+* prueba mediante un archivo;
+* estructura de directorios;
+* tipografía e interlineado.
+
+### Quinta etapa — preguntas y aclaraciones
+
+Andrés formula preguntas sucesivas sobre:
+
+* dónde colocar el documento;
+* qué carpeta utilizar;
+* cómo sincronizar;
+* cómo trabajar el fork;
+* qué formato usar;
+* dónde encontrar el repositorio;
+* qué cambios realizar.
+
+### Sexta etapa — dificultades técnicas
+
+Aparecen problemas relacionados con:
+
+* acceso al Word;
+* daño del teléfono;
+* contraseña;
+* visualización de los cambios;
+* sincronización del fork;
+* clonación;
+* push.
+
+### Séptima etapa — asistencia y resolución
+
+Se realizan nuevos intentos de sincronización, se documenta el problema del push, se revisa el documento compartido y finalmente Andrés solicita apoyo directo para modificar y subir el archivo.
+
+### Conclusión objetiva
+
+La evidencia no permite afirmar que Andrés se negara a trabajar o que deliberadamente ignorara las instrucciones.
+
+Lo que sí demuestra la conversación es que:
+
+> **Fue necesario reiterar y reformular varias instrucciones técnicas durante la ejecución; algunas consultas reaparecieron después de haber recibido explicaciones previas; Andrés realizó intentos de ejecución y presentó dificultades concretas de acceso, sincronización y push; y finalmente solicitó apoyo para completar la operación.**
+
+Esta formulación es considerablemente más sólida que afirmar que “nunca entendió”.
+
+---
+
+# 25. Comparación entre la conversación grupal y la conversación individual
+
+La combinación de ambas conversaciones permite distinguir claramente dos niveles de coordinación:
+
+| Nivel                   | Evidencia                                | Característica                                                           |
+| ----------------------- | ---------------------------------------- | ------------------------------------------------------------------------ |
+| Grupo general           | WhatsApp del 29 sep. al 4 oct.           | Organización del equipo, roles, entregas, repositorio y tareas generales |
+| Conversación con Andrés | 1, 3 y 4 oct.                            | Coordinación individual y soporte técnico detallado                      |
+| Documento de Sesión 05  | Documento de apoyo actualizado el 1 oct. | Fuente para verificar cambios, composición y responsabilidades           |
+| GitHub                  | Repositorio y commits                    | Evidencia técnica de acciones realizadas                                 |
+
+Esta separación evita confundir una dificultad individual con una situación general del equipo.
+
+---
+
+# 26. Discordancias principales identificadas
+
+## Discordancia 01 — Rol de Scrum Master
+
+Durante la coordinación del **3 de octubre**, se identifica inicialmente a Samudio como líder.
+
+Yo aclaro:
+
+> “Samudio no esta de scrum master es Luis”
+
+Posteriormente:
+
+> “Ahh listo”
+
+La situación se relaciona directamente con la reorganización documentada durante la Sesión 05 y demuestra la importancia de revisar el documento actualizado.
+
+---
+
+## Discordancia 02 — Interpretación de las fechas
+
+El **1 de octubre** aparece una interpretación relacionada con una planificación hasta el día **29**.
+
+Posteriormente, el **3 de octubre**, dentro de la coordinación interna, se maneja:
+
+> “tenemos hasta el 5 de octubre para seguir mandando commits; para el 06 ya todo debe estar gestionado”
+
+Por tanto, ambas referencias deben mantenerse separadas y contextualizadas.
+
+---
+
+## Discordancia 03 — Procedimiento Git
+
+Durante el trabajo con Andrés se registran dudas y problemas sobre:
+
+* fork;
+* clone;
+* branch;
+* `git pull`;
+* ubicación de archivos;
+* sincronización;
+* push.
+
+La respuesta consistió en proporcionar instrucciones sucesivas y verificaciones prácticas.
+
+---
+
+## Discordancia 04 — Acceso al documento
+
+Andrés manifestó dificultades para acceder al documento debido a problemas con su dispositivo.
+
+Esto obligó a adaptar temporalmente el medio de trabajo y buscar una forma de continuar mediante computador y repositorio.
+
+---
+
+## Discordancia 05 — Ubicación y estructura de archivos
+
+Se debió aclarar en varias ocasiones:
+
+* carpeta `SCRUM`;
+* carpeta `assets`;
+* carpeta `resources`;
+* ubicación del documento;
+* estructura del fork;
+* ubicación de la copia individual del archivo.
+
+---
+
+# 27. Reiteración de instrucciones
+
+La evidencia permite identificar varios ejemplos de reiteración.
+
+### Ejemplo 1 — Documento
+
+Primero:
+
+> “Ya el informe esta en la raiz del repositorio se llama informe.docx”
+
+Posteriormente se vuelve a explicar dónde trabajar y qué archivo utilizar.
+
+### Ejemplo 2 — Formato
+
+Se pregunta:
+
+> “Ent e que Word trabajamos”
+
+y nuevamente:
+
 > “pero ent en que formato de word trabajmos”
 
-Ante ello, se responde:
+Se aclara:
 
 > “ya el formato esta en .docx”
 
-La conclusión adecuada no es afirmar que determinado integrante “nunca entendió” las instrucciones, sino dejar registrado que:
+### Ejemplo 3 — Git
 
-> **Durante la ejecución de la actividad fue necesario reiterar, aclarar y reformular en diferentes momentos instrucciones relacionadas con el documento, el flujo de trabajo técnico, el repositorio, las ramas, los commits y la distribución de responsabilidades. Algunas consultas reaparecieron posteriormente en diferentes formulaciones, generando la necesidad de nuevas aclaraciones y seguimiento.**
+Se proporciona:
 
-Esta formulación se ajusta mejor a una evaluación académica porque describe la **dinámica observable** sin atribuir intenciones o capacidades personales.
+> `git pull origin main`
+> `git pull origin develop`
+> `git pull`
 
----
+y posteriormente los comandos se vuelven a compartir durante la resolución del problema.
 
-# 26. Evidencia específica relacionada con Andrés
+### Ejemplo 4 — Estructura de carpetas
 
-La evidencia del **29 de septiembre** identifica a Andrés de manera explícita en relación con actividades técnicas de base de datos.
+Se proporciona:
 
-Sin embargo, varias conversaciones posteriores aparecen asociadas únicamente a números telefónicos.
+> `SCRUMMethodolyReport/assets/AndrezVelez/documentodeword.docx`
 
-Por esa razón, para atribuir específicamente a Andrés determinadas consultas, dificultades o reiteraciones posteriores, debe utilizarse adicionalmente cualquier captura o registro donde su identidad quede inequívocamente vinculada al mensaje correspondiente.
+y después se vuelve a aclarar que el archivo debía encontrarse dentro de la estructura correcta del proyecto.
 
-La evidencia puede dividirse así:
+### Ejemplo 5 — Fork y repositorio
 
-### Evidencia directamente atribuible
+Se comparte nuevamente el enlace del repositorio y se solicita repetir el procedimiento de fork y clonación.
 
-Mensajes donde aparece explícitamente el nombre de Andrés y su asignación técnica.
-
-### Evidencia grupal
-
-Mensajes donde participan varios integrantes pero donde la exportación no identifica inequívocamente a la persona por nombre.
-
-### Evidencia complementaria
-
-Capturas de pantalla, commits, branches, pull requests, archivos o documentos donde pueda verificarse la participación individual.
-
-Esta separación evita realizar atribuciones que excedan lo demostrado por la exportación.
+Estos ejemplos permiten establecer objetivamente que **la coordinación requirió repetición de instrucciones en diferentes momentos**.
 
 ---
 
-# 27. Verónica y las dificultades de comunicación
+# 28. Aspecto emocional y valoración personal
 
-El historial del **29 y 30 de septiembre** contiene múltiples audios e imágenes enviados por Verónica.
+El trabajo descrito generó una carga de coordinación considerable, particularmente cuando fue necesario repetir instrucciones o atender problemas técnicos.
 
-El **1 de octubre**, a la **1:26 p. m.**, WhatsApp registra su salida del grupo.
+Sin embargo, para mantener el carácter académico del informe, no se recomienda utilizar expresiones como:
 
-La exportación por sí sola no permite determinar la razón exacta de dicha salida.
+> “fue disgustante”
 
-Por tanto, la formulación académicamente adecuada es:
+o:
 
-> **Durante los primeros días del período documentado, parte de la comunicación de Verónica se realizó mediante mensajes de voz e imágenes. Posteriormente, el 1 de octubre, WhatsApp registra su salida del grupo. La exportación analizada no permite determinar por sí sola la causa de esta modificación.**
+> “Andrés nunca entendió”
 
-Si existe evidencia adicional que documente específicamente problemas de comunicación de Verónica, esta puede anexarse como soporte separado.
+o:
 
----
+> “yo tuve que explicarle todo porque no entendía nada”.
 
-# 28. Relación entre el documento académico y la conversación de WhatsApp
+En su lugar, la evidencia demuestra algo más concreto:
 
-La principal utilidad de integrar ambas fuentes consiste en establecer una trazabilidad de cuatro niveles:
+> **“La ejecución de la actividad requirió reiterar y reformular instrucciones en varias oportunidades. Algunas consultas volvieron a aparecer posteriormente en diferentes formulaciones, especialmente en relación con Git, la estructura del repositorio, el documento y la distribución de responsabilidades. Esto generó una necesidad permanente de seguimiento y aclaración para mantener la continuidad del trabajo.”**
 
-### 1. Orientación académica
-
-Información proporcionada durante la Sesión 05 y registrada en el documento de apoyo actualizado.
-
-### 2. Comunicación grupal
-
-Mensajes mediante los cuales los estudiantes interpretan, consultan o coordinan dicha información.
-
-### 3. Acción realizada
-
-Creación del repositorio, actualización del documento, definición de ramas, commits, organización de tareas, etc.
-
-### 4. Evidencia resultante
-
-Repositorio GitHub, historial de commits, documentos, pull requests, capturas y demás archivos.
-
-Esta estructura permite demostrar no solamente que existió una conversación, sino también **qué efecto tuvo la conversación sobre el desarrollo de la actividad**.
+Esta redacción conserva el hecho que se desea demostrar sin convertirlo en una valoración personal.
 
 ---
 
-# 29. Conclusión general
+# 29. Verónica: situación y reorganización del equipo
 
-La evidencia comprendida entre el **29 de septiembre y el 4 de octubre de 2026** muestra un proceso progresivo de organización y ejecución del trabajo académico.
+Respecto de Verónica, el registro debe conservar tres hechos diferenciados:
 
-El **1 de octubre de 2026**, correspondiente a la **Sesión 05**, adquiere especial relevancia porque, según la información proporcionada sobre la actividad y el documento de apoyo actualizado, el equipo recibió la indicación de:
+### Hecho 1
 
-* revisar directamente el documento actualizado;
-* identificar por sí mismo los cambios realizados;
-* reconocer que la conformación y organización de los equipos podía ser modificada por el docente;
-* y registrar las discordancias surgidas durante la actividad, incluyendo aquellas evidenciadas mediante las conversaciones del grupo.
+Verónica participó activamente en las comunicaciones iniciales del grupo.
 
-Esto permite utilizar el historial de WhatsApp no solamente como una conversación informal, sino como **evidencia de las incidencias y discordancias que ocurrieron durante la ejecución de la actividad**.
+### Hecho 2
 
-Entre las situaciones observables se encuentran:
+Según la información proporcionada sobre la organización original del equipo, **Verónica tenía inicialmente el rol de Scrum Master**.
 
-* discrepancias sobre la asignación de roles;
-* reiteración de preguntas sobre el formato del documento;
-* repetición de instrucciones técnicas;
-* dificultades para determinar quién debía crear el repositorio;
-* consultas sobre el procedimiento de Git y GitHub;
-* necesidad de volver a explicar ramas, commits y pull requests;
-* problemas de acceso a documentos;
-* dificultades derivadas de dispositivos;
-* consultas sobre responsabilidades técnicas;
-* y seguimiento constante del avance.
+### Hecho 3
 
-En consecuencia, el registro demuestra una dinámica de trabajo en la que fue necesario **revisar documentación, aclarar responsabilidades, reiterar procedimientos y resolver discordancias mediante comunicación grupal**.
+Durante la **Sesión 05 del 1 de octubre**, manifestó su descontento con la dinámica de trabajo y posteriormente el equipo fue reorganizado, pasando el rol de Scrum Master a **Luis Loaiza García**, según el documento actualizado en Drive.
 
-Para mantener la objetividad, las situaciones anteriores deben describirse como hechos observables, evitando atribuir intenciones personales. Cuando una situación se relacione específicamente con un integrante, la atribución deberá estar respaldada por una evidencia que permita identificar inequívocamente a dicha persona.
+Después de esta reorganización, WhatsApp registra su salida del grupo.
+
+### Precisión metodológica
+
+La exportación de WhatsApp no contiene, por sí sola, el mensaje específico donde Verónica manifiesta su descontento ni una explicación textual de que su salida haya ocurrido “porque estaba estresada”.
+
+Por tanto, para la versión final del informe, la frase debe respaldarse mediante:
+
+* captura de pantalla de la Sesión 05;
+* registro del Drive;
+* captura del documento actualizado;
+* o la evidencia directa donde Verónica expresa dicha situación.
+
+Sin esa evidencia adicional, la formulación correcta es:
+
+> **“Durante la Sesión 05 se presentó una situación de inconformidad de Verónica respecto de la dinámica de trabajo y posteriormente se produjo una reorganización del equipo, incluyendo el cambio del rol de Scrum Master a Luis Loaiza García.”**
 
 ---
 
-# 30. Fuentes de evidencia
+# 30. Relación entre las fuentes de evidencia
 
-**Fuente 1 — Exportación de WhatsApp**
+La trazabilidad completa del caso puede representarse de la siguiente forma:
 
-> *Exportation de la discussion WhatsApp: Planificador de Menús y Lista de Mercado*. Fecha de exportación: 4 de octubre de 2026, 9:12 p. m.
+**Documento de la Sesión 05**
+↓
+Identificación de cambios y organización del equipo
+↓
+**Conversación grupal de WhatsApp**
+↓
+Comunicación de roles, tareas, discordancias y fechas
+↓
+**Conversación individual con Andrés**
+↓
+Explicación y seguimiento técnico detallado
+↓
+**GitHub**
+↓
+Forks, ramas, commits, push, pull y archivos
+↓
+**Informe final**
 
-**Fuente 2 — Documento de apoyo de la Sesión 05**
+Esta relación permite demostrar que las evidencias no están aisladas, sino que corresponden a diferentes etapas del mismo proceso.
 
-> *Documento de apoyo / registro de trabajo actualizado durante la Sesión 05*, Google Sheets, actualizado el 1 de octubre de 2026. Disponible en:
-> https://docs.google.com/spreadsheets/d/1I85dGy3mablUgxN85FJZApJDjE7_gN2L/edit
+---
 
-**Fuente 3 — Evidencia técnica**
+# 31. Cronología consolidada
 
-Repositorio del proyecto:
+| Fecha       | Evento principal                                               | Evidencia                 |
+| ----------- | -------------------------------------------------------------- | ------------------------- |
+| **29 sep.** | Creación del grupo y primeras responsabilidades                | WhatsApp global           |
+| **29 sep.** | Andrés es mencionado junto con tareas de base de datos         | WhatsApp global           |
+| **30 sep.** | Comunicación preliminar sobre Sazón mediante audios e imágenes | WhatsApp global           |
+| **1 oct.**  | Sesión 05 y actualización del documento de apoyo               | Documento de apoyo        |
+| **1 oct.**  | Reorganización del equipo y cambio posterior de Scrum Master   | Documento + WhatsApp      |
+| **1 oct.**  | Seguimiento del trabajo y referencia a fechas                  | WhatsApp global           |
+| **1 oct.**  | Propuesta directa de trabajo conjunto con Andrés               | Chat individual           |
+| **2 oct.**  | Intento de establecer horario de trabajo                       | WhatsApp global           |
+| **3 oct.**  | Organización del repositorio y roles                           | WhatsApp global           |
+| **3 oct.**  | Coordinación de horario con Andrés                             | Chat individual           |
+| **3 oct.**  | Instrucciones sobre Git, documento y estructura                | Grupo + chat individual   |
+| **3 oct.**  | Identificación de tareas pendientes                            | WhatsApp global           |
+| **4 oct.**  | Andrés informa dificultades con Word y dispositivo             | Chat individual           |
+| **4 oct.**  | Repetición de instrucciones Git                                | Chat individual           |
+| **4 oct.**  | Problemas con fork, pull y push                                | Chat individual           |
+| **4 oct.**  | Incidencia del push documentada                                | Chat individual + backlog |
+| **4 oct.**  | Solicitud de asistencia para modificar y subir archivo         | Chat individual           |
+| **4 oct.**  | Cierre de la coordinación con reconocimiento del apoyo         | Chat individual           |
+
+---
+
+# 32. Conclusión
+
+La evidencia consolidada permite establecer que el desarrollo de la actividad fue un proceso progresivo y no una única jornada de trabajo.
+
+Desde el **29 de septiembre de 2026** existían conversaciones preliminares y asignaciones técnicas. El **1 de octubre**, durante la **Sesión 05**, se produjo una etapa importante de actualización y reorganización del equipo, incluyendo modificaciones de responsabilidades y del rol de Scrum Master.
+
+Posteriormente, durante los días **2, 3 y 4 de octubre**, se intensificó la coordinación para cumplir con las actividades y preparar la entrega.
+
+La conversación con Andrés demuestra específicamente que:
+
+* se le propuso trabajar conjuntamente;
+* aceptó participar;
+* se coordinaron horarios;
+* informó haber adelantado parte de su trabajo;
+* recibió instrucciones técnicas detalladas;
+* realizó intentos de trabajo sobre el repositorio;
+* presentó problemas de acceso y sincronización;
+* recibió nuevas aclaraciones;
+* realizó intentos de fork, clonación, pull y push;
+* compartió un documento de trabajo;
+* solicitó soporte adicional cuando el push no funcionó;
+* y finalmente mantuvo una comunicación colaborativa durante el cierre de la jornada.
+
+Por tanto, el principal hallazgo respecto de Andrés no debe formularse como una afirmación de que “nunca entendió” las instrucciones.
+
+La evidencia permite afirmar objetivamente que:
+
+> **La actividad requirió una reiteración frecuente de instrucciones y un seguimiento técnico continuo. Varias preguntas reaparecieron en diferentes momentos y fue necesario reformular procedimientos relacionados con el documento, la estructura del repositorio, Git, las ramas, los commits, los pull y los push. Paralelamente, se presentaron dificultades técnicas que obligaron a realizar múltiples intentos de sincronización y a prestar apoyo adicional para completar las operaciones.**
+
+Respecto de Verónica, la evidencia debe documentar que su participación inicial incluyó el rol de Scrum Master, que durante la Sesión 05 se produjo una situación de inconformidad y que posteriormente el docente reorganizó el equipo, asignando el rol de Scrum Master a **Luis Loaiza García**. Su salida del grupo aparece posteriormente registrada en WhatsApp.
+
+En conjunto, las evidencias muestran una dinámica de trabajo caracterizada por **reorganización, coordinación continua, reiteración de instrucciones, dificultades técnicas, ajustes de responsabilidades y seguimiento permanente**.
+
+Esta documentación permite presentar las situaciones ocurridas como **discordancias e incidencias del proceso académico**, de acuerdo con la instrucción de registrar este tipo de eventos, sin convertir el informe en una valoración personal de los integrantes.
+
+---
+
+# 33. Fuentes de evidencia
+
+### Fuente 1 — WhatsApp: grupo general
+
+*Exportation de la discussion WhatsApp: Planificador de Menús y Lista de Mercado*.
+Fecha de exportación: 4 de octubre de 2026, 9:12 p. m.
+
+### Fuente 2 — WhatsApp: conversación individual con Andrés
+
+*Exportation de la discussion WhatsApp: +57 312 8180166*.
+Fecha de exportación: 4 de octubre de 2026, 10:56 p. m.
+
+### Fuente 3 — Documento de apoyo de la Sesión 05
+
+Documento de Google Sheets utilizado y actualizado durante la Sesión 05 del 1 de octubre de 2026:
+
+> https://docs.google.com/spreadsheets/d/1I85dGy3mablUgxN85FjZApJDjE7_gN2L/edit
+
+### Fuente 4 — Repositorio del proyecto
 
 > https://github.com/Ambetazam/SCRUM_MethodologyReport
 
-Se recomienda complementar el presente registro con capturas de commits, ramas, pull requests, archivos modificados y demás evidencias técnicas que permitan correlacionar las comunicaciones con las actividades efectivamente realizadas.
+### Fuente 5 — Evidencia técnica complementaria
+
+Se recomienda anexar:
+
+* capturas de GitHub;
+* historial de commits;
+* ramas;
+* pull requests;
+* documentos compartidos;
+* capturas del Drive;
+* capturas de la Sesión 05;
+* y las imágenes correspondientes a las incidencias técnicas.
+
+Estas evidencias permitirán relacionar cada comunicación con una acción concreta realizada durante el desarrollo.
