@@ -285,7 +285,5 @@ This project is developed exclusively for educational, academic, and simulation 
 
 Este proyecto ha sido desarrollado exclusivamente con fines educativos, académicos y de simulación.
 
-## Contributors:
-Jean Steven:
-https://github.com/Ambetazam/
+
 
