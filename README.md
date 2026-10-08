@@ -284,13 +284,3 @@ The static presentation uses the official PDF document contained in this reposit
 This project is developed exclusively for educational, academic, and simulation purposes.
 
 Este proyecto ha sido desarrollado exclusivamente con fines educativos, académicos y de simulación.
-
-
-
-## Contributors:
-
-Jean Steven:
-https://github.com/Ambetazam/
-
-Andres Velez
-https://github.com/andresvel-dot/
